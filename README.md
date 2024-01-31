@@ -28,10 +28,6 @@ Python: Familiar with its versatility for various programming tasks.
 C & C++: Some experience in low-level programming.
 
 ## 📫 Get in Touch
-Feel free to reach out for collaboration, questions, or just to chat.
+Feel free to reach out for collaboration, questions, or whatever you want using my email: daniwlmesa12@gmail.com
 
-Email: daniwlmesa12@gmail.com
-
-Twitter: @Glue_eater69
-
-Discord: glue_eater69
+You may also ask me for my Discord and I'd be happy to engage in chit-chat if approached properly.
