@@ -1,5 +1,5 @@
-# Daniel Mesa García - Backend & Full Stack Developer 👨‍💻
-Hi! 👋 I'm Daniel Mesa García, a Backend Developer in my 20s based in Las Palmas de Gran Canaria, Spain. Fluent in both Spanish and English, I thrive on crafting robust backend solutions and possess the versatility to handle full-stack development.
+# Daniel Mesa García - Backend & Full Stack Developer 
+Hi! I'm Daniel Mesa García, a Backend Developer in my 20s based in Las Palmas de Gran Canaria, Spain. Fluent in both Spanish and English, I thrive on crafting robust backend solutions and possess the versatility to handle full-stack development.
 
 ## 🚀 About Me
 🔧 Primary Skills: Java, JavaScript (Node.js), MongoDB/Mongoose, Spring, Hibernate
